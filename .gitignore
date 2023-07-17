@@ -2,6 +2,7 @@
 work/
 data/
 results/
+results*/
 .DS_Store
 testing/
 testing*
@@ -14,3 +15,6 @@ ampliseq.Rproj
 results_test/*
 .nf-test/
 nf-test
+null/
+.vscode/
+localdata/
