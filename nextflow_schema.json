@@ -13,7 +13,6 @@
             "properties": {
                 "input": {
                     "type": "string",
-                    "mimetype": "text/tsv",
                     "fa_icon": "fas fa-dna",
                     "format": "file-path",
                     "description": "A tab-separated sample sheet.",
