@@ -1,0 +1,11 @@
+{
+    "max_cpus": 16,
+    "max_memory": "120.GB",
+    "max_time": "12.h",
+    "input": "\/data\/ampliseq\/nf_data\/Samplesheet_full.tsv",
+    "metadata": "\/data\/ampliseq\/nf_data\/Metadata_full.tsv",
+    "FW_primer": "GTGYCAGCMGCCGCGGTAA",
+    "RV_primer": "GGACTACNVGGGTWTCTAAT",
+    "outdir": "${projectDir}\/results_params\/"
+}
+
